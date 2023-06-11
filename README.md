@@ -31,7 +31,7 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 ## Acknowledgments
 
 We would like to acknowledge the contributions of the following individuals to the development of this Customer Segmentation guide:
-- Sai Srinivas S S: [Link to Author 1's GitHub profile]
+- Sai Srinivas S S: https://github.com/saisrinivas2511
 - Jyothiraditya Mugireddy: https://github.com/AdityaMugireddy
 
 ## Contact
